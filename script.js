@@ -9,5 +9,11 @@ const color = document.querySelector('#color')
 btn_toggle.onclick = () => {
   // your code here
 }
+btn_search.onclick= () => {
+
+}
+btn_reset.onclick= () => {
+
+}
 
 // more codes for Search and Reset buttons here
